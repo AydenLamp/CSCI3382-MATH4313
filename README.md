@@ -1,4 +1,4 @@
-# Lean 4 Homework Assignment
+# Lean 4 Installation
 
 You have two ways to work on this assignment:
 
